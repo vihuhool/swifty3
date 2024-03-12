@@ -105,3 +105,4 @@ print("Оценка \(grade.rawValue) соответствует \(numericGrade)
 printGarageContents()
 
 ```
+![image](https://github.com/vihuhool/swifty3/assets/69204363/95c9a247-8c0a-438a-aaae-f36bacd3a480)
